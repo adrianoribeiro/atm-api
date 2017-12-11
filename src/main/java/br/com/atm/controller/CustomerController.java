@@ -1,7 +1,7 @@
 /*
  * @(#)CustomerController.java 1.0 8 de dez de 2017
  *
- * Copyright (c) 2017, Mult-e
+ * Copyright (c) 2017, adriano.ribeiro
  */
 package br.com.atm.controller;
 

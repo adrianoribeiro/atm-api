@@ -1,7 +1,7 @@
 /*
  * @(#)CustomerService.java 1.0 9 de dez de 2017
  *
- * Copyright (c) 2017, Mult-e
+ * Copyright (c) 2017, adriano.ribeiro
  */
 package br.com.atm.service;
 
@@ -22,7 +22,7 @@ import br.com.atm.repository.CustomerRepository;
  * The class <code>CustomerService.java</code> 
  * </p>
  *
- * @author Mult-e
+ * @author adriano.ribeiro
  * @since 9 de dez de 2017
  * @version 1.0 9 de dez de 2017
  */

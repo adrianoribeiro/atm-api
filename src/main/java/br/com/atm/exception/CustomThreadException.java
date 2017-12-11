@@ -1,7 +1,7 @@
 /*
  * @(#)CustomThreadException.java 1.0 10 de dez de 2017
  *
- * Copyright (c) 2017, Mult-e
+ * Copyright (c) 2017, adriano.ribeiro
  */
 package br.com.atm.exception;
 
